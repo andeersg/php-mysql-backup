@@ -1,0 +1,19 @@
+{
+  "mysql": {
+    "username": "",
+    "password": "",
+    "databases": {
+      "": {
+        "filename": "",
+        "timestamp": false
+      }
+    }
+  },
+  "dropbox": {
+    "token": ""
+  },
+  "pushover": {
+    "token": "",
+    "user": ""
+  }
+}
